@@ -1,0 +1,9 @@
+body {
+    background-image: url(/theme/images/night.jpg);
+    background-size: cover;
+}
+
+#viewport {
+    padding: 1em;
+    width: unset;
+}
