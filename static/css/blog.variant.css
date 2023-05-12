@@ -1,6 +1,7 @@
 body {
     background-image: url(/theme/images/night.jpg);
     background-size: cover;
+    background-attachment: fixed;
 }
 
 #viewport {
