@@ -8,3 +8,7 @@ body {
     padding: 1em;
     width: unset;
 }
+
+p img {
+    width: 70vw;
+}
